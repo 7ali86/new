@@ -1,0 +1,43 @@
+  
+.header
+{
+  
+    height: 350px;
+    background: url(68909220-baby-boy-wallpapers11.png);
+    background-repeat: no-repeat;
+   
+   
+   
+    
+} 
+nav li ul li
+{
+ border: none;   
+}
+nav ul li
+{
+ padding-left:10px;
+    padding-right:10px;
+    border-left:1px solid #e4ad04;
+    border-right: 1px solid #a57d04;
+}
+nav ul li:first-child
+{
+   border-left:none;
+     
+}
+nav ul li:last-child
+{
+     border-right: none;
+    
+}
+
+ #grad {
+ 
+  background-image:url(bg.png);
+     background-size:100% 32px;
+     background-repeat: no-repeat;
+    
+    
+     
+} 

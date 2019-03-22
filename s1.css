@@ -1,0 +1,47 @@
+.headerpart
+{
+  color: white; 
+    overflow:visible;
+}
+.headerlg
+{
+    margin-left:300px;
+    
+}
+.bizmagic
+{
+    font-family:Hobo Std;
+    color: white;
+    font-size: 30px;
+  
+    margin-left:260px;
+    
+    
+}
+
+.footerparttop
+{
+ color: white;
+}
+.footerDiv {
+    padding: 15px 0px;
+}
+footer.cpyrighPart {
+
+    background: none repeat scroll 0 0 rgb(19, 19, 19);
+
+}
+nav1 ul li 
+{
+  display: inline;   
+    padding-left: 5px;
+    padding-right:5px;
+    
+}
+nav1 ul li a
+{
+    color: bisque;
+    text-decoration: none!important;
+   
+    
+}
